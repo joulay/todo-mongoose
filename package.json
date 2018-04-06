@@ -1,0 +1,23 @@
+{
+  "name": "nodepractice",
+  "version": "1.0.0",
+  "description": "Create a Mongoose schema, a serialize method, and Model for Todos Tasks:",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha --exit && node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joulay/todo-mongoose.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joulay/todo-mongoose/issues"
+  },
+  "homepage": "https://github.com/joulay/todo-mongoose#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
